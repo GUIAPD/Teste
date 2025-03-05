@@ -1,0 +1,15 @@
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\bin\Debug\net7.0\Exercicio8.exe
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\bin\Debug\net7.0\Exercicio8.deps.json
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\bin\Debug\net7.0\Exercicio8.runtimeconfig.json
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\bin\Debug\net7.0\Exercicio8.dll
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\bin\Debug\net7.0\Exercicio8.pdb
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.AssemblyInfo.cs
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.dll
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\refint\Exercicio8.dll
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.pdb
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\Exercicio8.genruntimeconfig.cache
+C:\Users\guilherme.dornelles1\source\repos\Exercicio8\Exercicio8\obj\Debug\net7.0\ref\Exercicio8.dll
